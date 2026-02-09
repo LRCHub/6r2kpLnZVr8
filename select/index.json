@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Parade",
+  "base_artist": "平沢進",
+  "createdAt": "2026-02-09T01:29:24.985668Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Parade",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/01_Parade_Garbage.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "La Parade",
+      "artist": "Yann Tiersen",
+      "has_synced": true,
+      "path": "select/02_La_Parade_Yann_Tiersen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fools' Parade",
+      "artist": "Sou",
+      "has_synced": true,
+      "path": "select/03_Fools'_Parade_Sou.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fools' Parade",
+      "artist": "Sou",
+      "has_synced": true,
+      "path": "select/04_Fools'_Parade_Sou.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Astroboy (And The Proles On Parade)",
+      "artist": "The Buggles",
+      "has_synced": false,
+      "path": "select/05_Astroboy_(And_The_Proles_On_Parade)_The_Buggles.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Parade",
+      "artist": "Nouvelle Vague",
+      "has_synced": true,
+      "path": "select/06_Parade_Nouvelle_Vague.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Gay Parade Outro",
+      "artist": "of Montreal",
+      "has_synced": true,
+      "path": "select/07_The_Gay_Parade_Outro_of_Montreal.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The March of the Gay Parade",
+      "artist": "of Montreal",
+      "has_synced": true,
+      "path": "select/08_The_March_of_the_Gay_Parade_of_Montreal.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Grand Parade",
+      "artist": "Blind Guardian",
+      "has_synced": true,
+      "path": "select/09_Grand_Parade_Blind_Guardian.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Blue (Da Ba Dee) - Molinaro Parade Mix",
+      "artist": "Eiffel 65",
+      "has_synced": true,
+      "path": "select/10_Blue_(Da_Ba_Dee)_-_Molinaro_Parade_Mix_Eiffel_65.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Children On Parade",
+      "artist": "Men At Work",
+      "has_synced": true,
+      "path": "select/11_Children_On_Parade_Men_At_Work.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "My Parade",
+      "artist": "ILOVEMAKONNEN",
+      "has_synced": true,
+      "path": "select/12_My_Parade_ILOVEMAKONNEN.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Flower Parade",
+      "artist": "Book Of Love",
+      "has_synced": true,
+      "path": "select/13_Flower_Parade_Book_Of_Love.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lorraine Parade",
+      "artist": "Danny Wilson",
+      "has_synced": true,
+      "path": "select/14_Lorraine_Parade_Danny_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Parade",
+      "artist": "Black",
+      "has_synced": true,
+      "path": "select/15_Parade_Black.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "A Banda (Parade)",
+      "artist": "Astrud Gilberto",
+      "has_synced": false,
+      "path": "select/16_A_Banda_(Parade)_Astrud_Gilberto.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Parade",
+      "artist": "平沢 進",
+      "has_synced": false,
+      "path": "select/pl_01_Parade_平沢_進.txt"
+    }
+  ]
+}
